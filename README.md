@@ -1,4 +1,4 @@
-# Desafio02 Ignite ReactJS Modulo01 - Watch Me
+# Desafio02 Ignite ReactJS Modulo01 - WatchMe
 
 O segundo desafio desse recruta em sua viajem intergalática pelo universo do React JS.
 Uma aplicação onde você encontrará o próximo filme que irá assistir.
